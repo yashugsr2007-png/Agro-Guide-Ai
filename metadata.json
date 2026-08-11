@@ -1,0 +1,6 @@
+{
+  "name": "AgroGuide",
+  "description": "Complete AI Farming Assistant with Crop Health & Disease Analysis, Weather Advisor, Soil Health Analysis, Crop & Yield Planner, Harvesting Advisor, Saved Reports, and multi-language support (English, Telugu, Hindi).",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
